@@ -179,5 +179,5 @@ EMAIL_HOST = 'smtp.gmail.com'
 EMAIL_PORT = 587
 EMAIL_USE_TLS = True
 DEFAULT_FROM_EMAIL = "PROJECT"
-EMAIL_HOST_USER = 'adnanazeem30@gmail.com'
-EMAIL_HOST_PASSWORD = 'fpwuukusyzigwlpb'
+EMAIL_HOST_USER = ''
+EMAIL_HOST_PASSWORD = ''
